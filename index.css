@@ -46,3 +46,56 @@
     font-weight: bold;
 
 }
+
+.girl {
+    max-width: 100%;
+    height: auto;
+}
+
+.igirl {
+    width: 100%px;
+    height: auto;
+    max-width: 550px;
+
+}
+
+
+.buttons {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    gap: 35px;
+}
+
+.Group {
+    margin-top: 12px;
+}
+
+.page1 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 80px;
+    margin-top: 50px;
+}
+
+.h1 {
+    font-size: 86px;
+    color: #224F34;
+}
+
+
+
+.h2 {
+    font-size: 24px;
+    font-family: arial;
+    color: #267D49;
+    line-height: 2;
+    margin-top: -35px;
+}
+
+.textpage {
+    font-size: 150px;
+}
